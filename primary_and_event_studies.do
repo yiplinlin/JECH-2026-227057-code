@@ -1,3 +1,9 @@
+* The scripts use Stata 19.5 and prepared datasets stored in the data directory.
+* The main input is data.dta.
+* Country-inclusion analyses additionally require data_women.dta and data_cohort.dta.
+* Run the scripts from the repository root.
+* Outputs are saved in the results directory.
+
 version 19.5
 set more off
 set linesize 255
