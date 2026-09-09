@@ -1,0 +1,20 @@
+PROPOSED RESTRICTED-USE NOTICE
+Copyright (c) 2026 Drumlin Yip. All rights reserved in original code expression.
+
+Subject to applicable law and any applicable hosting-platform terms, permission
+is granted to read, execute and make necessary local adaptations of this code
+solely to examine, verify, reproduce or critically evaluate the associated study.
+Preserve this notice and acknowledge the author and associated manuscript.
+Reporting findings from such verification or critical evaluation is permitted.
+
+No general permission is granted to redistribute the code or adaptations, or to
+reuse the original code in other projects. For additional permission, contact
+the corresponding author of manuscript JECH-2026-227057.
+
+Do not present the author's original code or manuscript text as your own work.
+This notice does not restrict independently written code, statistical methods,
+rights provided by law, or third-party software governed by its own terms.
+It is not an access-control mechanism and cannot prevent copying technically.
+
+These proposed terms have not been reviewed for legal enforceability or accepted
+by a journal or repository. Confirm their suitability before public release.
