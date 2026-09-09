@@ -1,4 +1,4 @@
-PROPOSED RESTRICTED-USE NOTICE
+RESTRICTED-USE NOTICE
 Copyright (c) 2026 Drumlin Yip. All rights reserved in original code expression.
 
 Subject to applicable law and any applicable hosting-platform terms, permission
@@ -15,6 +15,3 @@ Do not present the author's original code or manuscript text as your own work.
 This notice does not restrict independently written code, statistical methods,
 rights provided by law, or third-party software governed by its own terms.
 It is not an access-control mechanism and cannot prevent copying technically.
-
-These proposed terms have not been reviewed for legal enforceability or accepted
-by a journal or repository. Confirm their suitability before public release.
